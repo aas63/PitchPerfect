@@ -1,5 +1,5 @@
 # PitchPerfect
-An app that detects pitch and identifies musical notes in real time.
+An app (coded in Swift) that detects pitch and identifies musical notes in real time.
 
 Pitch Perfect is an app that detects what note you’re playing (or what key you’re in) with any instrument.
 
