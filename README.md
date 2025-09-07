@@ -3,6 +3,10 @@ An app that detects pitch and identifies musical notes in real time.
 
 Pitch Perfect is an app that detects what note you’re playing (or what key you’re in) with any instrument.
 
+<img width="828" height="1792" alt="IMG_0703" src="https://github.com/user-attachments/assets/5e561663-6d00-4adc-9971-6cbb88f25c0e" />
+
+<img width="828" height="1792" alt="IMG_0707" src="https://github.com/user-attachments/assets/4a8b3696-36c3-45d8-809c-f24e7406bc1d" />
+
 How it works:
 •	The app listens to your microphone and measures the sound’s frequency.
 •	Every musical note has a “home frequency.” For example:
